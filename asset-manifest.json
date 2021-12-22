@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10105a00.chunk.css",
+    "main.js": "/static/js/main.21e9f1d3.chunk.js",
+    "main.js.map": "/static/js/main.21e9f1d3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.72d5ea1c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.72d5ea1c.js.map",
+    "static/js/2.6368b0fd.chunk.js": "/static/js/2.6368b0fd.chunk.js",
+    "static/js/2.6368b0fd.chunk.js.map": "/static/js/2.6368b0fd.chunk.js.map",
+    "static/js/3.753568d5.chunk.js": "/static/js/3.753568d5.chunk.js",
+    "static/js/3.753568d5.chunk.js.map": "/static/js/3.753568d5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.10105a00.chunk.css.map": "/static/css/main.10105a00.chunk.css.map",
+    "static/js/2.6368b0fd.chunk.js.LICENSE.txt": "/static/js/2.6368b0fd.chunk.js.LICENSE.txt",
+    "static/media/Canara.e6b295a4.svg": "/static/media/Canara.e6b295a4.svg",
+    "static/media/logo.fcc37be5.svg": "/static/media/logo.fcc37be5.svg",
+    "static/media/mc.6135807c.svg": "/static/media/mc.6135807c.svg",
+    "static/media/rupay-white.3a34b5f9.svg": "/static/media/rupay-white.3a34b5f9.svg",
+    "static/media/rupay.4e202f88.svg": "/static/media/rupay.4e202f88.svg",
+    "static/media/visa.3b665cc2.svg": "/static/media/visa.3b665cc2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72d5ea1c.js",
+    "static/js/2.6368b0fd.chunk.js",
+    "static/css/main.10105a00.chunk.css",
+    "static/js/main.21e9f1d3.chunk.js"
+  ]
+}
