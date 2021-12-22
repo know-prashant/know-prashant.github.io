@@ -1,0 +1,323 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.41.5",
+  "hash": "9049bb881dc17db23226",
+  "publicPath": "/build/browser/",
+  "outputPath": "/Users/prashant.yadav/Desktop/canaramvp/build/browser",
+  "assetsByChunkName": {
+    "main": [
+      "js/main.36de37be.js",
+      "js/main.36de37be.js.map"
+    ],
+    "runtime": [
+      "js/runtime.671556bf.js",
+      "js/runtime.671556bf.js.map"
+    ],
+    "vendors~main": [
+      "js/vendors~main.c1107b2d.js",
+      "js/vendors~main.c1107b2d.js.map"
+    ]
+  },
+  "assets": [
+    {
+      "name": "js/main.36de37be.js",
+      "size": 84466,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "js/main.36de37be.js.map",
+      "size": 169955,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "js/runtime.671556bf.js",
+      "size": 1535,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "runtime"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "js/runtime.671556bf.js.map",
+      "size": 8296,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "runtime"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "js/vendors~main.c1107b2d.js",
+      "size": 1039949,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "vendors~main"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true,
+        "related": {
+          "license": "js/vendors~main.c1107b2d.js.LICENSE.txt"
+        }
+      },
+      "emitted": false
+    },
+    {
+      "name": "js/vendors~main.c1107b2d.js.LICENSE.txt",
+      "size": 2591,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "js/vendors~main.c1107b2d.js.map",
+      "size": 6648365,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "vendors~main"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "offline.html",
+      "size": 0,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/Canara.e6b295a4.svg",
+      "size": 157664,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/logo.fcc37be5.svg",
+      "size": 6386,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/mc.6135807c.svg",
+      "size": 1662,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/rupay-white.3a34b5f9.svg",
+      "size": 3062,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/rupay.4e202f88.svg",
+      "size": 142487,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/visa.3b665cc2.svg",
+      "size": 10514,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "main": {
+      "chunks": [
+        1,
+        2,
+        0
+      ],
+      "assets": [
+        "js/runtime.671556bf.js",
+        "js/runtime.671556bf.js.map",
+        "js/vendors~main.c1107b2d.js",
+        "js/vendors~main.c1107b2d.js.map",
+        "js/main.36de37be.js",
+        "js/main.36de37be.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "chunks": [
+        1,
+        2,
+        0
+      ],
+      "assets": [
+        "js/runtime.671556bf.js",
+        "js/runtime.671556bf.js.map",
+        "js/vendors~main.c1107b2d.js",
+        "js/vendors~main.c1107b2d.js.map",
+        "js/main.36de37be.js",
+        "js/main.36de37be.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    },
+    "copy-webpack-plugin": {
+      "entries": [
+        {
+          "type": "log",
+          "message": "begin globbing '/Users/prashant.yadav/Desktop/canaramvp/src/offline/offline.html' with a context of '/Users/prashant.yadav/Desktop/canaramvp/src/offline'"
+        },
+        {
+          "type": "log",
+          "message": "determined that '/Users/prashant.yadav/Desktop/canaramvp/src/offline/offline.html' should write to 'offline.html'"
+        },
+        {
+          "type": "log",
+          "message": "skipping 'offline.html', because it already exists"
+        }
+      ],
+      "filteredEntries": 8,
+      "debug": false
+    }
+  },
+  "children": [
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/build/browser/",
+      "outputPath": "/Users/prashant.yadav/Desktop/canaramvp/build/browser",
+      "assetsByChunkName": {},
+      "assets": [
+        {
+          "name": "index.html",
+          "size": 549600,
+          "chunks": [
+            0
+          ],
+          "chunkNames": [],
+          "info": {},
+          "emitted": false
+        },
+        {
+          "name": "offline.html",
+          "size": 0,
+          "chunks": [],
+          "chunkNames": [],
+          "info": {},
+          "emitted": false
+        }
+      ],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "undefined": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "index.html"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "undefined": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "index.html"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        },
+        "copy-webpack-plugin": {
+          "entries": [
+            {
+              "type": "log",
+              "message": "begin globbing '/Users/prashant.yadav/Desktop/canaramvp/src/offline/offline.html' with a context of '/Users/prashant.yadav/Desktop/canaramvp/src/offline'"
+            },
+            {
+              "type": "log",
+              "message": "determined that '/Users/prashant.yadav/Desktop/canaramvp/src/offline/offline.html' should write to 'offline.html'"
+            },
+            {
+              "type": "log",
+              "message": "writing 'offline.html' to compilation assets from '/Users/prashant.yadav/Desktop/canaramvp/src/offline/offline.html'"
+            }
+          ],
+          "filteredEntries": 8,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "html-webpack-plugin for \"index.html\""
+    }
+  ]
+}
